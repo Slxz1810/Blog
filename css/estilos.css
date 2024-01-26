@@ -1,23 +1,34 @@
 body
 {
 
+ background: black; 
  color: #333;
  text-align: center;
  font-family: "Ariel";
  font-size: 16px;
  margin: 0;
  padding: 0;
+
 }
 
 #cabecera
 
 {
- background: #33a;
+ background: url("../Imagenes/SUPRA.png.jpg") no-repeat center center;
+box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
  color: white;
  font-weight: bold;
- box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
  margin: 0;
- padding: 0.5em;
+ padding: 0.5em 0 0.5em 2em;
+}
+
+#cabecera #logo
+
+{
+
+width: 20px;
+vertical-align: middle;
+
 }
 
 
@@ -42,5 +53,6 @@ font-size: 20px;
 
 #post
 {
+ background: white;   
  padding: 1em;
 }
