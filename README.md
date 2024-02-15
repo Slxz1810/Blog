@@ -1,4 +1,4 @@
-# Blog :tw-1f30a: :tw-1f30a: :tw-1f30a:
+# Blog 
 **Un blog y ya.** 
 >Este blog es muy interesante solo por que yo lo digo y nadie me impide decirlo y si alguien se opone a mi opinion pobre de el .
 > - 1
