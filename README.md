@@ -17,10 +17,7 @@ GATOS GATOS GATOS GATOS GATOS GATOS GATOS GATOS GATOS
 
 
 creado por el proyecto y mi persona
-<<<<<<< HEAD
-=======
 
 otro parrafom mas
 
 git log git log 
->>>>>>> readme-mejorado
